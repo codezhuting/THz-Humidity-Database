@@ -1,0 +1,14 @@
+# .project-meta
+project:
+  name: "Reference-free humidity sensing database"
+  description: "A database containing 34 THz signals with humidity levels ranging from 0-88% RH"
+  type: "research" # 可选: library/tool/research
+
+creator:
+  name: "Ting Zhu"
+  github: "codezhuting"
+  email: "zhut@aircas.ac.cn"
+
+timeline:
+  created: "2025-07-19"
+  version: "1.0.0"
